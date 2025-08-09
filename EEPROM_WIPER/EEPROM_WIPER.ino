@@ -5,7 +5,7 @@
 //y defines the end area
 
 int x = 0;
-int y = 250;
+int y = 4096;
 
 void setup() {
   Serial.begin(115200);
